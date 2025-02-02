@@ -8,6 +8,7 @@
 - [Devpost Submission](#devpost-submission)
 
 ## Overview
+You are studying late one night at the Cathedral of Learning and when you get up to leave, you notice all the doors are locked. It appears you are being haunted by the spirit of *MJPM*, but who is that? You must search through the Cathedral's nationality rooms and complete puzzles to complete Chapter 1.
 
 ## Process
 
