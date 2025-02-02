@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/HauntedCathy/Library/
+/DollPuzzle/Library/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
