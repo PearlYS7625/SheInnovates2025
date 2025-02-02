@@ -13,7 +13,7 @@ You are studying late one night at the Cathedral of Learning. When you get up to
 ## Process
 We developed this program using Unity for the coding and game mechanics, and Aseprite for creating the artwork. Natalie focused on coding the puzzles, Pearl implemented the character physics and assisted with puzzles, Jessica handled scene transitions and assembled the map, and Maria created all of the artwork, including maps, items, and characters. 
 
-This was our first time using Unity, so we had to do a lot of research to understand the program and learn how to code in C#. Our inspiration for the game comes from this website: [HauntedUSCathedralOfLearning](https://hauntedus.com/pennsylvania/cathedral-learning-pitts-university/). Legend has it that Martha Jane Poe McDaniel donated her quilts to the Early American Room, and now here spirit remains attached to them.
+This was our first time using Unity, so we had to do a lot of research to understand the program and learn how to code in C#. Our inspiration for the game comes from this website: [HauntedUSCathedralOfLearning](https://hauntedus.com/pennsylvania/cathedral-learning-pitts-university/). Legend has it that Martha Jane Poe McDaniel donated her quilts to the Early American Room, and now her spirit remains attached to them.
 
 ## Video Demonstration
 [SheInnovates 2025 [TURN UP VOLUME FOR EXPLANATION](https://youtu.be/EOSOwG_hACk)
