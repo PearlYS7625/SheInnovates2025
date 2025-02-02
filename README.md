@@ -1,5 +1,5 @@
 # SheInnovates 2025: *Haunted Cathy*
-*By: Maria Dantas, Natalie Goldsworthy, Pearl Singer, Luke Tola, and Jessica Wagner*
+*By: Maria Dantas, Natalie Goldsworthy, Pearl Singer, and Jessica Wagner*
 
 ### Table of Contents
 - [Overview](#overview)
