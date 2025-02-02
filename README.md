@@ -3,8 +3,8 @@
 
 ### Table of Contents
 - [Overview](#overview)
-- [Process](#how-it-works)
-- [Video Demonstration](#video-demonstration--UPDATED-)
+- [Process](#process)
+- [Video Demonstration](#video-demonstration)
 - [Devpost Submission](#devpost-submission)
 
 ## Overview
